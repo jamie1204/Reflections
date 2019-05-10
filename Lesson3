@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When you want to be able to share with someone at a different location.  
+
+You may want to pull your changes manually because you might not want the latest version, you might be working on it from where it was when you got it.  Besides, its nice to know when your files are updated.
